@@ -1,0 +1,9 @@
+#header3-1 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  min-height: calc(100vh - 57px);
+}
+
+.container {
+  padding-top: 5% !important;
+}
